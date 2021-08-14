@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+<img alt = "Anish's stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Deathstroke002&show_icons=true&hide=stars&count_private=true&theme=blue-green"/>
+</p>
+<p align="center">
+  <img align="center" src="https://gpvc.arturio.dev/Deathstroke002"/>
+</p>
